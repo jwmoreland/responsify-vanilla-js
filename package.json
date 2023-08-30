@@ -1,0 +1,18 @@
+{
+  "name": "responsify-vanilla-js",
+  "version": "1.0.0",
+  "description": "Based off of wentin/ResponsifyJS, but without the jQuery stuff. Pass an image with ",
+  "main": "responsify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "javascript",
+    "responsive",
+    "protect",
+    "crop"
+  ],
+  "author": "Justin Moreland",
+  "license": "ISC"
+}
